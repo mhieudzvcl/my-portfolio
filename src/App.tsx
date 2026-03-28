@@ -597,11 +597,11 @@ export default function PortfolioHuynhMinhHieu() {
                 <p className="mt-1 text-white/45">2023 – 2027</p>
                 <div className="mt-4 flex flex-wrap gap-2">
                   <Badge className="bg-white/[0.06] text-white/85">
-                    Tốt nghiệp loại Giỏi
+                    Tốt nghiệp loại Giỏi (dự kiến)
                   </Badge>
-                  <Badge className="bg-white/[0.06] text-white/85">
+                  {/* <Badge className="bg-white/[0.06] text-white/85">
                     Học bổng kỳ 1 năm học 2025–2026
-                  </Badge>
+                  </Badge> */}
                 </div>
               </Card>
 
